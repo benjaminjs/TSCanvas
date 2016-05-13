@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "amd",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,    
+        "sourceMap": true,
+        "rootDir": "./src/",
+        "sourceRoot": "./src/",
+        "outFile": "./build/build.js"
+    }
+}
