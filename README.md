@@ -1,5 +1,5 @@
 # TSCanvas
-Playing around with functional TypeScript and canvas
+Playing around with "functional" TypeScript and canvas
 
 ![Example](http://i.giphy.com/l0K4k9kVMCNEoszLO.gif)
 
